@@ -1,12 +1,3 @@
 [
-    {"name" : "Samandar", "phone": "998990275804"},
-    {"name" : "Hasan" , "phone" : "998946571944"},
-    {"name" : "Husniddin", "phone" : "998938664353"},
-    {"name" : "Hasanboy", "phone" : "998945074011"},
-    {"name" : "Samandar", "phone" : "998889009554"},
-    {"name" : "Shuhrat", "phone" : "998998318988"},
-    {"name" : "Sardor", "phone" : "998911645544"},
-    {"name" : "Do'styor", "phone" : "998912997711"},
-    {"name" : "Mirsaid", "phone" : "998937000072"}
-
+    {"name" : "Samandar", "phone": "998XXXXXXXXX"} # use this data for testing
 ]
