@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 creds = Credentials.from_service_account_file('files/credentials.json')
 service = build('sheets', 'v4', credentials=creds)
 
-spreadsheet_id = "17MV0rmunDATuOZimQqP0Wuq6bCRSi32Z6MoBgsTX-P8"
+spreadsheet_id = " " # spreadsheet_id for taking data from excel
 
 def read_data(start_row=2):
     range_name = f'Sheet1!A{start_row}:B'
